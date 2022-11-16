@@ -1,0 +1,28 @@
+{
+  "name": "express_practica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eltinchoo/express_practica.git"
+  },
+  "keywords": [],
+  "author": "Martin Paredes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eltinchoo/express_practica/issues"
+  },
+  "homepage": "https://github.com/Eltinchoo/express_practica#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
